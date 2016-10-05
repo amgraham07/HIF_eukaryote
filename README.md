@@ -3,7 +3,6 @@
 
 #### content of this repository includes...
 #### hmmer3_extract_domains.pl - modified from scripts available through google-code archive (stajich lab @ UC-Riverside)
-#### dataset1 - xxxxx
-#### dataset2 - xxxxx
+#### dataset - bhlh.pas.domains.alignment.fa
 
 ####Manuscript is Pending submission to PLOS One
