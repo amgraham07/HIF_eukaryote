@@ -5,4 +5,4 @@
 #### (1) script --> hmmer3_extract_domains.pl - modified from scripts available through google-code archive (Stajich lab @ UC-Riverside)
 #### (2) dataset --> bhlh.pas.domains.alignment.fa
 
-####Manuscript is pending submission to PLOS One
+###http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179545
